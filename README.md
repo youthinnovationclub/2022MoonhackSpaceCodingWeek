@@ -16,5 +16,6 @@ Here are the project list.
 5. Stop the fire        Jefferey Yang
 6. Space                Yulin Tan
 7. 3D Space             Sarah Mullin
+8. My Fire              Jaylen Lin
 
 Congratulations, your project has been recognized by Moonhack, see you next year.
